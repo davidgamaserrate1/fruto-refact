@@ -19,7 +19,7 @@ const Pessoas = () => {
             funcao: 'Produtora'
         },
         {
-            imagem: `${roberta}`,
+            imagem: `${marcela}`,
             nome: 'marcela',
             funcao: 'Chef de cozinha'
         },
